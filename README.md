@@ -1,13 +1,14 @@
 # Vertebrate Zoology, Spring 2018
 
 Number | Lesson
---- | --- 
-3 | [Subphylum Vertebrata](#subphylum-vertebrata) 
+:---: | --- 
+1 | [Animals](#classification-phylogeny-and-evolution-of-animals)
+2 | [Phylum Chordata](#phylum-chordata)
+3 | [Subphylum Vertebrata](#subphylum-vertebrata)
+4 | [Hox genes](#hox-genes)
 
-## Subphylum Vertebrata
-- *Craniata = Vertebrata*. However, Craniata is a better name because all of the animals in the category have a skull, while not all have a spine.
-- *agnatha* - jawless animals
-
+---
+## *Hox* genes
 ### Duplication of *Hox* genes
 Plays a major role in embryonic development. Appears to have occurred around the time vertebrates originated. 
 - jawed vertebrates have 4 sets
@@ -54,6 +55,27 @@ Ex2-Ex3
 ```
 - prevents loss of function
 - more combinations; more diverse morphology
+
+---
+## Subphylum Vertebrata
+- *Craniata = Vertebrata*. However, Craniata is a better name because all of the animals in the category have a skull, while not all have a spine.
+- *agnatha* - jawless animals
+- musculoskeletal system (endoskeleton)
+
+CARTILAGE is made from *chondro*cytes (developed first).  
+BONE is made from *osteo*cytes. It may hae evolved first to store minerals, and later adapted for use in the skeleton.
+
+### Developments
+- specialized pharynx - added muscles to make it a more powerful water-pumping organ
+- conversion of pharyngeal slits to highly vascularized gills
+- tripartite brain (fore/mid/hind brain) within protective cranium of bone/cartilage
+
+### Sensory Organs
+- complex eyes
+- pressure receptors
+- taste/smell receptors
+- lateral line receptors (water vibrations)
+- electroreceptors (electrical currents)
 
 **extant:** still alive today  
 **extinct:** no longer alive
@@ -126,7 +148,7 @@ More than half of the elasmobranchs.
 - gill slits placed ventrally and eyes dorsally placed
 
 **Rays:** live bearing (viviparous); greatly reduced/absent dorsal fin  
-**Skates:**
+**Skates:** egg laying (oviparous); "mermaid's purses", prominent dorsal fin
 
 ### Subclass Holocephalie: Chimaeras
 Small group of about 33 species of deep sea (> 80 m) cartilaginous fishes known commonly as ratfish or ghostfish
@@ -134,3 +156,69 @@ Small group of about 33 species of deep sea (> 80 m) cartilaginous fishes known 
 - coveer over the gills (operculum) as in bony fishes 
 - venomous spine in front of dorsal fin
 - lack both spiracle and stomach
+
+---
+## Phylum Chordata
+### Subphylums
+1. Cephalochordata (lancelets)
+2. Urochordata (tunicates)
+3. Vertebrata (fish, amphibians, reptiles, birds, mammals, etc.)
+
+### Characteristics
+1. notochord
+2. single, dorsal, tubular nerve cord
+3. pharyngeal pouches or slits
+4. endostyle
+5. postanal tail
+
+### Notochord
+Flexible, rodlike structure extending the length of the body, acting as an anchor point for the muscles. 
+- bends without shortening (allows *undulation*)
+- replaced by the *vertebral column* in jawed vertebrates
+
+---
+## Classification, Phylogeny, and Evolution of Animals
+Classification -> Taxonomy
+#### Humans
+- **Kingdom:** Animalia
+  - **Phlyum:** Chordata
+    - **Subphylum:** Vertebrata
+      - **Superclass:** Tetrapod
+        - **Class:** Mammalia
+          - **Subclass:** Theria (birthing live young)
+            - **Infraclass:** Eutheria (np pouch, like kangaroos)
+              - **Order:** Primate
+                - **Family:** Hominidas
+                  - **Genus:** Homo
+                    - **Species:** sapiens
+
+### Animals
+- multicellular, eukaryotic, diploid (usually)
+- meiosis produces gametes (sperm/egg are the only haploid cells)
+- heterotrophic by ingestion
+- no cell walls
+
+### Basic Structure
+- body wall = outer tube (voluntary skeletal muscle)
+- gut (GI tract) = inner tube (surrounded by involuntary smooth muscle)
+  mouth -> anus
+  
+### 5 Key Innovations in Animal Evolution
+1. tissues: allow for specialized structures and functions (except sponges)
+2. symmetry (radial or bilateral)
+3. body cavity
+4. various patterns of embryonic development
+5. segmentation, or repeated body units
+
+### Tissues
+zygote -> eight-cell stage -> blastula -> gastrulation -> gastrula
+- **ectoderm:** germ layer covering embryo surface
+
+### Body Cavity
+- **acoelomate:** no body cavity (flatworm)
+- **pseudocoelomate:** fake cavity between digestive tract and muscle layer
+- **coelomate:** true body cavity
+
+### Cleavage Development
+- **protostome:** spiral and determinate (mouth first - insects)
+- **deutorostome:** radial and indeterminate (anus first - Chordata)
