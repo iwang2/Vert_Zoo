@@ -58,7 +58,7 @@ Ex2-Ex3
 **extant:** still alive today  
 **extinct:** no longer alive
 
-### Extant Jawless Fishes :heavy_check_mark:
+### Extant Jawless Fishes
 - little more than 100 species (Agnathans; which does not represent a monophyletic group)
 - these belong to two classes the Myxini (hagfishes), and
 
