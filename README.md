@@ -157,6 +157,24 @@ Small group of about 33 species of deep sea (> 80 m) cartilaginous fishes known 
 - venomous spine in front of dorsal fin
 - lack both spiracle and stomach
 
+### Class Osteichthyes :x: (more for dissection than the quiz)
+Vast majority of vertebrates belong to this clade of gnathostomes. These include ray-finned and lobe-finned fishes.
+- bony endoskeleton
+- most fishes breathe by drawing water over gills protected by an **operculum** (counter-current)
+- fishes control their bouyancy with an air sac known as a **swim bladder**
+
+***STUDY THE TREE (agnatha, chondrichthyes, actinopterygians, sarcopterygians)***
+
+### Teleost Characters :x: (only for the practicuum, not quiz)
+- homocercal tail
+- circular scales without ganoine
+- ossified vertebrae
+- swim bladder
+- skull with complex jaw mobility 
+
+### Anatomy of a trout :x: (only for practicuum)
+- kidney is really far up 
+
 ---
 ## Phylum Chordata
 ### Subphylums
