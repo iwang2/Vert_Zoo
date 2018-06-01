@@ -6,6 +6,28 @@ Number | Lesson
 2 | [Phylum Chordata](#phylum-chordata)
 3 | [Subphylum Vertebrata](#subphylum-vertebrata)
 4 | [Hox genes](#hox-genes)
+5 | [Tetrapods](#tetrapods)
+
+---
+## Tetrapods
+
+### Marsupials
+Include opossums (play dead), kangaroos, and koalas.  
+Embryos develop within a *placenta* in the mother's uterus.  
+They are born very early in development, and completes embryonic development while nursing in a maternal pouch called a marsupium. 
+
+### Eutherians - Placental Mammals
+- Have a longer period of pregnancy than marsupials.
+- Young comlete their embryonic development within a uterus, joined to the mother by the placenta.
+- In Australia, convergent evolution has resulted in a diversity of marsupials that resemble the eutherians in other parts of the world.
+
+### Primates
+Include lemurs, tarsiers, monkeys, and apes.
+Three main groups:
+1. lemurs, lorises, and pottos
+2. tarsiers
+3. **anthropoids** (monkeys and apes)
+Humans are members of the ape group.
 
 ---
 ## *Hox* genes
