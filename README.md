@@ -29,6 +29,42 @@ Three main groups:
 3. **anthropoids** (monkeys and apes)
 Humans are members of the ape group.
 
+### Derived Characteristics of Primates
+Most have hands and feet adapted for grasping.
+- large brain and short jaws
+- forward-looking eyes close together on the face, providing depth perception
+- complex social behavior and parental care
+- fully **opposable thumb** (in monkeys and apes)
+
+### :x: phylogenetic tree of primates
+We will not be tested on this.
+- New World - South America
+- Old World - Eurasia
+
+Lemurs, and other types of monkeys are tree-top dwellers to avoid predators.  
+They use their tail as their fifth limb. 
+
+### Nonhuman Apes
+a. gibbon
+b. orangutan - more female dominant
+c. gorilla - male dominant (commit infanticide)
+d. chimpanzees - also more female dominant
+e. bonobos
+
+### Humans have a large brain and bipedal locomotion
+- *Homo sapiens* is about 200,000 years old (very young considering life has existed on Earth for at least 3.5 billion years).
+- **paleoanthropology** - study of human origins
+- **hominins** (formerly called hominids) - more closely related to humans than to chimpanzees
+
+### Derived Characteristics of Humans
+These characteristics individually are not limited to just humans. 
+- upright posture and bipedal locomotion
+- larger brains (folds on the cerebral cortex)
+- language capabilities and symbolic thought
+- manufacture and use of complex tools
+- shortened jaw
+- shorter digestive tract
+
 ---
 ## *Hox* genes
 ### Duplication of *Hox* genes
